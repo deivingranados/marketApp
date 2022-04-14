@@ -1,12 +1,11 @@
-# Getting Started with Create React App
+# REACT
+React hace que sea sencillo crear interfaces de usuario interactivas. Diseñe vistas simples para cada estado en su aplicación, y React actualizará y renderizará de manera eficiente solo los componentes correctos cuando cambien sus datos.https://reactjs.org/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TYPESCRIPT
+TypeScript es un lenguaje de programación desarrollado y mantenido por Microsoft. Es un superconjunto sintáctico estricto de JavaScript y agrega escritura estática opcional al lenguaje. Está diseñado para el desarrollo de aplicaciones grandes y transcompila a JavaScript.https://www.typescriptlang.org/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### `SASS`
+Sass es un lenguaje de secuencias de comandos de preprocesador que se interpreta o compila en hojas de estilo en cascada. SassScript es el propio lenguaje de programación. Sass consta de dos sintaxis. La sintaxis original, llamada "la sintaxis con sangría", utiliza una sintaxis similar a la de Haml.https://sass-lang.com/
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,33 +13,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `INSTALACIÓN`
+npm install
+npm es un administrador de paquetes para el lenguaje de programación JavaScript mantenido por npm, Inc. npm es el administrador de paquetes predeterminado para el entorno de tiempo de ejecución de JavaScript Node.js. Consiste en un cliente de línea de comandos, también llamado npm, y una base de datos en línea de paquetes públicos y privados pagados, llamada registro npm.https://docs.npmjs.com/cli/v8/commands/npm-install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `npm start`
 
-### `npm run build`
+corre en el puerto http://localhost:3000
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
