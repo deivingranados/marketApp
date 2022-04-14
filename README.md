@@ -7,11 +7,7 @@ TypeScript es un lenguaje de programación desarrollado y mantenido por Microsof
 ### `SASS`
 Sass es un lenguaje de secuencias de comandos de preprocesador que se interpreta o compila en hojas de estilo en cascada. SassScript es el propio lenguaje de programación. Sass consta de dos sintaxis. La sintaxis original, llamada "la sintaxis con sangría", utiliza una sintaxis similar a la de Haml.https://sass-lang.com/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `INSTALACIÓN`
 npm install
