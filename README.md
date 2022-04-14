@@ -1,10 +1,10 @@
-# REACT
+# React
 React hace que sea sencillo crear interfaces de usuario interactivas. Diseñe vistas simples para cada estado en su aplicación, y React actualizará y renderizará de manera eficiente solo los componentes correctos cuando cambien sus datos.https://reactjs.org/
 
-## TYPESCRIPT
+## Typescript
 TypeScript es un lenguaje de programación desarrollado y mantenido por Microsoft. Es un superconjunto sintáctico estricto de JavaScript y agrega escritura estática opcional al lenguaje. Está diseñado para el desarrollo de aplicaciones grandes y transcompila a JavaScript.https://www.typescriptlang.org/
 
-### `SASS`
+### `Sass`
 Sass es un lenguaje de secuencias de comandos de preprocesador que se interpreta o compila en hojas de estilo en cascada. SassScript es el propio lenguaje de programación. Sass consta de dos sintaxis. La sintaxis original, llamada "la sintaxis con sangría", utiliza una sintaxis similar a la de Haml.https://sass-lang.com/
 
 
