@@ -1,0 +1,55 @@
+$backGgraundColor: #ffe600;
+$borderColor: #eeeeee;
+$padding: 2px;
+$center: center;
+$width: 65%;
+$none: none;
+$border: 3px;
+
+.nav_search {
+  background-color: $backGgraundColor;
+  padding: $padding;
+  text-align: $center;
+  justify-content: $center;
+}
+.imput_search {
+  width: $width;
+  margin-top: 5px;
+  border: solid 1px $borderColor;
+  padding: $padding;
+  border-radius: $border;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  font-size: 16px;
+  padding-left: 10px;
+  &::placeholder {
+    color: #999999;
+    font-size: 13px;
+  }
+}
+.button_acction {
+  border: $none;
+  width: 40px;
+  height: 30px;
+  border-radius: 3px 0px 0px, 3px;
+}
+.category_text {
+  background-color: $borderColor;
+  margin-bottom: 0rem;
+  padding: 1ch;
+  font-size: 12px;
+  text-align: $center;
+  color: gray;
+}
+
+@media (min-width: 960px) {
+  .category_text {
+    background-color: $borderColor;
+    margin-bottom: 0rem;
+    padding: 1ch;
+    text-align: left;
+    padding-left: 6cm;
+    font-size: 16px;
+    color: gray;
+  }
+}

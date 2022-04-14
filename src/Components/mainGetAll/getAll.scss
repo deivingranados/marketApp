@@ -1,0 +1,58 @@
+$color: #eeeeee;
+$back_graund: white;
+$padding: 30px;
+$center: center;
+$width: 65%;
+$none: none;
+$border: 4px;
+$position: auto;
+
+.item_box {
+  width: 100%;
+  margin: $position;
+  background-color: $back_graund;
+  border-radius: $border;
+  padding: $padding;
+  border-bottom: solid 1px $color;
+  cursor: pointer;
+}
+
+@media (min-width: 960px) {
+  .container_products {
+    background-color: $color;
+  }
+  .item_box {
+    width: 70%;
+    margin: $position;
+    background-color: $back_graund;
+    border-radius: $border;
+    padding: $padding;
+    border-bottom: solid 1px $color;
+    display: flex;
+    cursor: pointer;
+  }
+  .span_icon {
+    margin-left: 5px;
+  }
+
+  .title {
+    font-family: Arial;
+    font-size: 15px;
+  }
+
+  .box_text {
+    padding-top: 2ch;
+    margin-left: 10px;
+    width: 50%;
+  }
+
+  .text-price {
+    font-size: 32px;
+  }
+  .box_text_state {
+    padding-top: 20px;
+    text-align: end;
+    width: 50%;
+    font-size: 13px;
+  }
+}
